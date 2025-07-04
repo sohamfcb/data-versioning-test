@@ -1,5 +1,5 @@
 outs:
-- md5: dd5363c21cd9ffec73d539fa0086c992
-  size: 38082
+- md5: dc982a45c7db0a90812c11342e6c50f9
+  size: 38578
   hash: md5
   path: customer.csv
